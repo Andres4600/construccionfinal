@@ -17,7 +17,7 @@ sendButton.addEventListener("click", function() {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
-                'Authorization': `Bearer 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`
+                'Authorization': `Bearer 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`
             },
             body: JSON.stringify({
                 model: "gpt-3.5-turbo", // Cambia el modelo si es necesario
